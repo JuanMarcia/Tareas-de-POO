@@ -14,4 +14,4 @@ Juan Carlos Marcia Morales-20211920066
 
 Instrucciones:
 
-Al momento de realizar una orden revisar hasta el pie de la pagina para visualizar su pedido.
+Al momento de realizar una orden revisar hasta el pie de la pagina para visualizar su pedido. 
